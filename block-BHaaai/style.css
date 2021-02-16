@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(7, 7, 58);
+    color: #fff;
+}
+.header {
+    text-align: center;
+}
+img {
+    height: 10em;
+}
+
+h2 {
+    color: green;
+}
+a {
+    color: red;
+    padding: 1rem;
+}
+.footer {
+    background-color: rgb(2, 2, 44);
+    text-align: center;
+    padding: 1em;
+}
