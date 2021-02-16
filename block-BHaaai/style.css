@@ -2,7 +2,7 @@ body {
     background-color: rgb(7, 7, 58);
     color: #fff;
 }
-header {
+.header {
     text-align: center;
 }
 img {
@@ -16,7 +16,7 @@ a {
     color: red;
     padding: 1rem;
 }
-footer {
+.footer {
     background-color: rgb(2, 2, 44);
     text-align: center;
     padding: 1em;
